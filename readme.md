@@ -97,7 +97,7 @@ Os testes automatizados foram configurados para a aplicação web usando Vitest 
 
 A aplicação web foi configurada para deploy contínuo através da plataforma **Vercel**.
 
-  * **Link da Aplicação:** ``
+  * **Link da Aplicação:** [https://avaliacao2-web.vercel.app/](https://avaliacao2-web.vercel.app/)
 
 ## Créditos e Referências 
 
